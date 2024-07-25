@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Focuses the chat input field when 'Escape' is pressed.
 // @author       brokenricefilms
-// @match        https://gemini.google.com/app/*
+// @match        https://gemini.google.com/*
 // @grant        none
 // ==/UserScript==
 
